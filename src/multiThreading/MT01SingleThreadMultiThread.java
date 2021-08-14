@@ -35,7 +35,7 @@ package multiThreading;
             işlerine devam eder. kesme kaynağı interrupt demek.
     public boolean isInterrupted(): Bir thread'in kesilip kesilmediğni test eder.
  */
-public class MultiThreading01 {
+public class MT01SingleThreadMultiThread {
     public static void main(String[] args) throws InterruptedException {
         long baslaSingleTh = System.currentTimeMillis();
         System.out.println("=========== SINGLE-THREAD =============");
