@@ -22,7 +22,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class Mt07ThreadPool {
+public class MT07ThreadPool {
 
     public static void main(String[] args) {
         // Thread havuzunu olustur.
