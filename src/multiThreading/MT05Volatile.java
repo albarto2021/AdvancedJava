@@ -3,7 +3,7 @@ package multiThreading;
 //============================================= VOLATILE ===============================================================
 // Volatile keyword'u, Bir degiskenin farklı threadler tarafından kullanılırken degerinin degismesini saglamak icin
 // kullanılmaktadir. Aynı zamanda bir class'ı thread-safe yapmak icin de kullanılır. Yani diger bir degisle, bir class
-// yada nesneyi farklı thread'lerin es zamanlı olarak problemiz kullanımına olanak saglar.
+// yada nesneyi farklı thread'lerin es zamanlı olarak problemsiz kullanımına olanak saglar.
 
 // Volatile keywordu sadece degiskenler ile (primitif veya non-primitif) kullanılabilir. Nesne ve Class'lara konulmaz
 
